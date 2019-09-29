@@ -1,4 +1,3 @@
-C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.csprojAssemblyReference.cache
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\bin\Debug\netcoreapp2.2\MagicUNI.deps.json
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\bin\Debug\netcoreapp2.2\MagicUNI.runtimeconfig.json
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\bin\Debug\netcoreapp2.2\MagicUNI.runtimeconfig.dev.json
@@ -6,6 +5,7 @@ C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\bin\Debug\n
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\bin\Debug\netcoreapp2.2\MagicUNI.pdb
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\bin\Debug\netcoreapp2.2\MagicUNI.Views.dll
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\bin\Debug\netcoreapp2.2\MagicUNI.Views.pdb
+C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.csprojAssemblyReference.cache
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.csproj.CoreCompileInputs.cache
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.RazorAssemblyInfo.cache
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.RazorAssemblyInfo.cs
@@ -20,6 +20,7 @@ C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\n
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\Razor\Views\Studenti\Index.g.cshtml.cs
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.RazorTargetAssemblyInfo.cache
@@ -28,4 +29,3 @@ C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\n
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.dll
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.pdb
 C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\MagicUNI.csproj.CopyComplete
-C:\Users\bearzi\Desktop\Rainis\GitHubDesk\MagicUNI\MagicUNI\MagicUNI\obj\Debug\netcoreapp2.2\Razor\Views\Studenti\Index.g.cshtml.cs
